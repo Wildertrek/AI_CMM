@@ -1,0 +1,175 @@
+Name,Description,Type
+BigQuery,Data warehouse for business agility and insights.,Analytics
+Cloud Composer,Workflow orchestration service built on Apache Airflow.,Analytics
+Cloud Data Fusion,Data integration for building and managing data pipelines.,Analytics
+Cloud Life Sciences (beta),"Tools for managing, processing, and transforming biomedical data.",Analytics
+Data Catalog,Metadata solution for exploring and managing data.,Analytics
+Dataflow,Streaming analytics for stream and batch processing.,Analytics
+Dataprep,Service to prepare data for analysis and machine learning.,Analytics
+Dataproc,Service for running Apache Spark and Apache Hadoop clusters.,Analytics
+Google Data Studio*,"Interactive data suite for dashboarding, reporting, and analytics.",Analytics
+Google Marketing Platform*,Marketing platform unifying advertising and analytics.,Analytics
+Looker,"Platform for BI, data applications, and embedded analytics.",Analytics
+Pub/Sub,Messaging service for event ingestion and delivery.,Analytics
+API Analytics,"Dashboards, custom reports, and metrics for API performance.",API Management
+API Gateway (beta),"Develop, deploy, secure, and manage APIs with a fully managed gateway.",API Management
+API Monetization,Revenue stream and business model creation from APIs.,API Management
+Apigee API Platform,"API management, development, and security platform.",API Management
+Apigee healthcare APIx,FHIR API-based digital service formation.,API Management
+Apigee Hybrid,Deployment option for managing APIs on-premises or in the cloud.,API Management
+Apigee Open Banking APIx,Open banking and PSD2-compliant API delivery.,API Management
+Apigee Sense,Intelligent behavior detection to protect APIs.,API Management
+AppSheet,Enable everyone in your organization to build and extend applications without coding.,API Management
+Cloud Endpoints,Deployment and development management for APIs on Google Cloud.,API Management
+Cloud Healthcare API,Solution to bridge existing care systems and apps on Google Cloud.,API Management
+Developer Portal,Self-service and custom developer portal creation.,API Management
+App Engine,Serverless application platform for apps and back ends.,Compute
+Bare Metal,Infrastructure to run specialized workloads on Google Cloud.,Compute
+Cloud GPUs,"GPUs for ML, scientific computing, and 3D visualization.",Compute
+Cloud Run,Fully managed environment for running containerized apps.,Compute
+Compute Engine,Virtual machines running in Google’s data center.,Compute
+Migrate for Compute Engine,Server and virtual machine migration to Compute Engine.,Compute
+Preemptible VMs,Compute instances for batch jobs and fault-tolerant workloads.,Compute
+Recommender,"Proactive, easily actionable recommendations to keep your cloud optimized.",Compute
+Shielded VMs,Reinforced virtual machines on Google Cloud.,Compute
+Sole-tenant Nodes,"Dedicated hardware for compliance, licensing, and management.",Compute
+SQL Server on Google Cloud,Options for running SQL Server virtual machines on Google Cloud.,Compute
+VMware Engine,Migrate and run your VMware workloads natively on Google Cloud.,Compute
+Artifact Registry (beta),"Store, manage, and secure container images and language packages.",Containers
+Cloud Build,Solution for running build steps in a Docker container.,Containers
+Cloud Run,Fully managed environment for running containerized apps.,Containers
+Container Registry,"Registry for storing, managing, and securing Docker images.",Containers
+Container Security,Container environment security for each stage of the life cycle.,Containers
+Deep Learning Containers (beta),"Containers with data science frameworks, libraries, and tools.",Containers
+Google Kubernetes Engine (GKE),Managed environment for running containerized apps.,Containers
+Knative,Components to create Kubernetes-native cloud-based software.,Containers
+Kubernetes applications on Google Cloud Marketplace,Containerized apps with prebuilt deployment and unified billing.,Containers
+Cloud Bigtable,NoSQL wide-column database for storing big data with low latency.,Databases
+Cloud Spanner,Relational database management system for database administration.,Databases
+Cloud SQL,"Relational database services for MySQL, PostgreSQL, and SQL Server.",Databases
+Firebase Realtime Database,NoSQL cloud database for storing and syncing data in real time.,Databases
+Firestore,NoSQL document database for mobile and web application data.,Databases
+Memorystore,In-memory data store service for Redis for fast data processing.,Databases
+Artifact Registry (beta),"Store, manage, and secure container images and language packages.",Developer Tools
+Cloud Build,Continuous integration and continuous delivery platform.,Developer Tools
+Cloud Code,"IDE support to write, run, and debug Kubernetes applications.",Developer Tools
+Cloud Scheduler,Cron job scheduler for task automation and management.,Developer Tools
+Cloud SDK,Command-line tools and libraries for Google Cloud.,Developer Tools
+Cloud Source Repositories,"Private Git repository to store, manage, and track code.",Developer Tools
+Cloud Tasks,Task management service for asynchronous task execution.,Developer Tools
+Container Registry,Private Docker storage for container images on Google Cloud.,Developer Tools
+Firebase Crashlytics,Prioritize and fix stability issues faster.,Developer Tools
+Firebase Test Lab,On-demand testing infrastructure for Android apps.,Developer Tools
+Gradle App Engine Plugin,Use Gradle for your App Engine projects.,Developer Tools
+Maven App Engine Plugin,Use Maven for your App Engine projects.,Developer Tools
+Tekton,Kubernetes-native resources for declaring CI/CD pipelines.,Developer Tools
+Tools for Eclipse,Plugin for Google Cloud development inside the Eclipse IDE.,Developer Tools
+Tools for PowerShell,Full cloud control from Windows PowerShell.,Developer Tools
+Game Servers,Game server management service running on Google Kubernetes Engine.,Game Tech
+Apigee healthcare APIx,FHIR API-based digital service production.,Healthcare & Life Sciences
+Cloud Healthcare API,Solution for bridging existing care systems and apps on Google Cloud.,Healthcare & Life Sciences
+Cloud Life Sciences (beta),"Tools for managing, processing, and transforming biomedical data.",Healthcare & Life Sciences
+Anthos,Platform for modernizing existing apps and building new ones.,Hybrid & Multi-cloud
+Apigee API Management,"API management, development, and security platform.",Hybrid & Multi-cloud
+Cloud Build,Service for executing builds on Google Cloud infrastructure.,Hybrid & Multi-cloud
+Migrate for Anthos,Tool to move workloads and existing applications to GKE.,Hybrid & Multi-cloud
+Certificate Authority Service (beta),Simplify the deployment and management of private CAs.,Identity & Access
+Cloud Identity,Unified platform for IT admins to manage user devices and apps.,Identity & Access
+Context-aware access,Manage access to apps and infrastructure based on a user’s identity and context.,Identity & Access
+Identity and Access Management,Permissions management system for Google Cloud resources.,Identity & Access
+Identity Platform,Add Google-grade identity and access management to your apps.,Identity & Access
+Identity-Aware Proxy,Use identity and context to guard access to your applications and VMs.,Identity & Access
+Managed Service for Microsoft Active Directory,Hardened service running Microsoft® Active Directory (AD).,Identity & Access
+Policy Intelligence,Smart access control for your Google Cloud resources.,Identity & Access
+Resource Manager,Hierarchical management for organizing resources on Google Cloud.,Identity & Access
+Titan Security Key,Two-factor authentication device for user account protection.,Identity & Access
+Edge TPU,ASIC designed to run ML inference and AI at the edge.,IoT
+IoT Core,"IoT device management, integration, and connection service.",IoT
+AI building blocks,Easily infuse AI into applications with custom or pre-trained models.,Machine Learning
+AI Infrastructure,Options for every business to train deep learning and ML models cost-effectively.,Machine Learning
+AI Platform,"Platform for training, hosting, and managing ML models.",Machine Learning
+AI Platform Notebooks,An enterprise notebook service to get projects up and running in minutes.,Machine Learning
+AutoML,Custom machine learning model training and development.,Machine Learning
+AutoML Tables (beta),Service for training ML models with structured data.,Machine Learning
+Cloud GPUs,"GPUs for machine learning, scientific computing, and 3D visualization.",Machine Learning
+Cloud Inference API (alpha),Quickly run large-scale correlations over typed time-series datasets.,Machine Learning
+Cloud Natural Language,Sentiment analysis and classification of unstructured text.,Machine Learning
+Cloud TPU,Tensor processing units for machine learning applications.,Machine Learning
+Cloud Translation,"Language detection, translation, and glossary support.",Machine Learning
+Deep Learning Containers (beta),Preconfigured and optimized containers for deep learning environments.,Machine Learning
+Deep Learning VM Image,Preconfigured VMs for deep learning applications.,Machine Learning
+Dialogflow,Conversation applications and systems development suite.,Machine Learning
+Media Translation (beta),Add dynamic audio translation directly to your content and applications.,Machine Learning
+Recommendations AI (beta),Deliver highly personalized product recommendations at scale.,Machine Learning
+Speech-to-Text,Speech recognition and transcription supporting 125 languages.,Machine Learning
+Text-to-Speech,Speech synthesis in 220+ voices and 40+ languages.,Machine Learning
+Video AI,Video classification and recognition using machine learning.,Machine Learning
+Vision AI,"Custom and pre-trained models to detect emotion, text, more.",Machine Learning
+Anthos Service Mesh,Managed service mesh for complex microservices architectures.,Management & Governance
+Cloud APIs,Programmatic interfaces for Google Cloud services.,Management & Governance
+Cloud Console,Web-based interface for managing and monitoring cloud apps.,Management & Governance
+Cloud Deployment Manager,Service for creating and managing Google Cloud resources.,Management & Governance
+Cloud Mobile App,App to manage Google Cloud services from your mobile device.,Management & Governance
+Cloud Shell,Interactive shell environment with a built-in command line.,Management & Governance
+Cost Management,"Tools for monitoring, controlling, and optimizing your costs.",Management & Governance
+Private Catalog,Service catalog for admins managing internal enterprise solutions.,Management & Governance
+OpenCue,Open source render manager for visual effects and animation.,Media
+Zync Render,Platform for 3D modeling and rendering on Google Cloud infrastructure.,Media
+BigQuery Data Transfer Service,Data import service for scheduling and moving data into BigQuery.,Migration
+Cloud Data Transfer,Tools and services for transferring your data to Google Cloud.,Migration
+Cloud Foundation Toolkit,Reference templates for Deployment Manager and Terraform.,Migration
+Migrate for Anthos,Components for migrating VMs into system containers on GKE.,Migration
+Migrate for Compute Engine,Components for migrating VMs and physical servers to Compute Engine.,Migration
+Storage Transfer Service,Data transfers from online and on-premises sources to Cloud Storage.,Migration
+Transfer Appliance,Storage server for moving large volumes of data to Google Cloud.,Migration
+VM migration,VM migration to the cloud for low-cost refresh cycles.,Migration
+Cloud Armor,Security policies and defense against web and DDoS attacks.,Networking
+Cloud CDN,Content delivery network for serving web and video content.,Networking
+Cloud DNS,Domain name system for reliable and low-latency name lookups.,Networking
+Cloud Load Balancing,Service for distributing traffic across applications and regions.,Networking
+Cloud NAT,NAT service for giving private instances internet access.,Networking
+Hybrid Connectivity,"Connectivity options for VPN, peering, and enterprise needs.",Networking
+Network Intelligence Center,"Network monitoring, verification, and optimization platform.",Networking
+Network Service Tiers,"Cloud network options based on performance, availability, and cost.",Networking
+Network Telemetry,"VPC flow logs for network monitoring, forensics, and security.",Networking
+Service Directory (beta),"Platform for discovering, publishing, and connecting services.",Networking
+Traffic Director,Traffic control pane and management for open service mesh.,Networking
+Virtual Private Cloud (VPC),Virtual network for Google Cloud resources and cloud-based services.,Networking
+Cloud Debugger,Real-time application state inspection and in-production debugging.,Operations
+Cloud Logging,"Google Cloud audit, platform, and application logs management.",Operations
+Cloud Monitoring,Infrastructure and application health with rich metrics.,Operations
+Cloud Profiler,CPU and heap profiler for analyzing application performance.,Operations
+Cloud Trace,Tracing system collecting latency data from applications.,Operations
+Kubernetes Engine Monitoring,GKE app development and troubleshooting.,Operations
+Access Transparency,Cloud provider visibility through near real-time logs.,Security & Identity
+Assured Workloads (beta),Compliance and security controls for sensitive workloads.,Security & Identity
+Binary Authorization,Deploy only trusted containers on Kubernetes Engine.,Security & Identity
+Chronicle,Extract signals from your security telemetry to find threats instantly.,Security & Identity
+Cloud Asset Inventory,"View, monitor, and analyze Google Cloud and Anthos assets across projects and services.",Security & Identity
+Cloud Data Loss Prevention,"Sensitive data inspection, classification, and redaction platform.",Security & Identity
+Cloud Key Management,Manage encryption keys on Google Cloud.,Security & Identity
+Confidential Computing (beta),Encrypt data in use with Confidential VMs.,Security & Identity
+Firewalls,Global and flexible firewalls to protect your cloud resources.,Security & Identity
+Secret Manager,"Store API keys, passwords, certificates, and other sensitive data.",Security & Identity
+Security Command Center,Platform for defending against threats to your Google Cloud assets.,Security & Identity
+Shielded VMs,Virtual machines hardened with security controls and defenses.,Security & Identity
+VPC Service Controls,Protect sensitive data in Google Cloud services using security perimeters.,Security & Identity
+App Engine,Serverless application platform for apps and back ends.,Serverless Computing
+Cloud Functions,Platform for creating functions that respond to cloud events.,Serverless Computing
+Cloud Run,Fully managed environment for running containerized apps.,Serverless Computing
+Workflows,Workflow orchestration for serverless products and API services.,Serverless Computing
+Archive Storage,Data archive that offers online access speed at ultra low cost.,Storage
+Cloud Data Transfer,Tools and services for transferring your data to Google Cloud.,Storage
+Cloud Storage,"Object storage that’s secure, durable, and scalable.",Storage
+Cloud Storage for Firebase,Object storage for storing and serving user-generated content.,Storage
+Filestore,File storage that is highly scalable and secure.,Storage
+G Suite Essentials,"Cloud-based file sharing, content collaboration, and storage.",Storage
+Local SSD,Block storage that is locally attached for high-performance needs.,Storage
+Persistent Disk,Block storage for virtual machine instances running on Google Cloud.,Storage
+Chrome Enterprise,"Google Chrome Enterprise unlocks the business capabilities of Chrome OS, Chrome Browser, and Chrome devices, freeing IT to power your cloud workforce.",User Apps
+G Suite,"An integrated suite of secure, cloud-native collaboration and productivity apps powered by Google AI.",User Apps
+Google Maps Platform,"Create immersive location experiences and improve your business operations with real-time, comprehensive data.",User Apps
+Meet,Easy-to-join video meetings.,User Apps
+Phishing Protection,Protect your users from phishing sites.,User Protection Services
+reCAPTCHA Enterprise,"Help protect your website from fraudulent activity, spam, and abuse.",User Protection Services
+Web Risk,Detect malicious URLs on your website and in client applications.,User Protection Services
