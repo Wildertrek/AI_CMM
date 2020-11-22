@@ -1,0 +1,102 @@
+SERVICES / PROGRAMS,DoD CC SRG IL2 (East/West),DoD CC SRG IL2 (GovCloud),DoD CC SRG IL4 (GovCloud),DoD CC SRG IL5 (GovCloud),DoD CC SRG IL6 (AWS Secret Region)
+Amazon API Gateway,✓,✓,✓,✓,
+Amazon AppStream 2.0,✓,✓,✓,✓,
+Amazon Athena,✓,✓,✓,✓,
+Amazon Aurora (MySQL),✓,✓,✓,✓,
+Amazon Aurora (Postgres),✓,✓,✓,✓,
+Amazon Chime,✓,,,,
+Amazon Cloud Directory,✓,✓,✓,✓,
+Amazon CloudFront,✓,,,,
+Amazon CloudWatch,✓,✓,✓,✓,✓
+Amazon CloudWatch Events,✓,✓,✓,✓,DISA Review
+Amazon CloudWatch Logs,✓,✓,✓,✓,DISA Review
+Amazon Cognito,✓,,,,
+Amazon Comprehend,✓,✓,✓,✓,
+Amazon Connect,✓,,,,
+Amazon DynamoDB,✓,✓,✓,✓,✓
+Amazon EC2 Auto Scaling [feature of EC2],✓,✓,✓,✓,✓
+Amazon Elastic Block Store (EBS),✓,✓,✓,✓,✓
+Amazon Elastic Compute Cloud (EC2),✓,✓,✓,✓,✓
+Amazon Elastic Container Registry (ECR),✓,✓,✓,✓,
+Amazon Elastic Container Service (ECS),✓,✓,✓,✓,
+Amazon Elastic File System (EFS),✓,✓,✓,✓,
+Amazon Elastic Kubernetes Service (EKS),JAB Review,3PAO Assessment,3PAO Assessment,3PAO Assessment,
+Amazon ElastiCache for Redis,✓,✓,✓,✓,✓
+Amazon Elasticsearch Service,✓,✓,✓,✓,
+Amazon EMR,✓,✓,✓,✓,DISA Review
+Amazon GuardDuty,✓,✓,✓,✓,
+Amazon Inspector,✓,✓,✓,✓,
+Amazon Kinesis Data Firehose,✓,✓,✓,✓,
+Amazon Kinesis Data Streams,✓,✓,✓,✓,✓
+Amazon Macie,✓,,,,
+Amazon MQ,3PAO Assessment,,,,
+Amazon Pinpoint,✓,3PAO Assessment,3PAO Assessment,3PAO Assessment,
+Amazon Polly,✓,✓,✓,✓,
+Amazon QuickSight,✓,,,,
+Amazon RDS (MariaDB),✓,✓,,,✓
+Amazon RDS (MySQL),✓,✓,✓,✓,✓
+Amazon RDS (Oracle),✓,✓,✓,✓,✓
+Amazon RDS (Postgres),✓,✓,✓,✓,✓
+Amazon RDS (SQL Server),✓,✓,✓,✓,✓
+Amazon Redshift,✓,✓,✓,✓,✓
+Amazon Rekognition,✓,✓,✓,✓,
+Amazon Route 53,✓,✓,✓,✓,
+Amazon S3 Glacier,✓,✓,✓,✓,✓
+Amazon SageMaker,✓,✓,✓,✓,
+Amazon Simple Email Service (SES),✓,,,,
+Amazon Simple Notification Service (SNS),✓,✓,✓,✓,✓
+Amazon Simple Queue Service (SQS),✓,✓,✓,✓,✓
+Amazon Simple Storage Service (S3),✓,✓,✓,✓,✓
+Amazon Simple Workflow Service (SWF),✓,✓,✓,✓,✓
+Amazon Transcribe,✓,✓,✓,✓,
+Amazon Translate,✓,✓,✓,✓,
+Amazon Virtual Private Cloud (VPC),✓,✓,✓,✓,✓
+Amazon WorkDocs,✓,,,,
+Amazon WorkSpaces,✓,✓,✓,✓,
+AWS Batch,✓,JAB Review,JAB Review,JAB Review,
+AWS CloudFormation,✓,✓,✓,✓,✓
+AWS CloudHSM,✓,JAB Review,✓,✓,
+AWS CloudTrail,✓,✓,✓,✓,✓
+AWS CodeBuild,✓,✓,✓,✓,
+AWS CodeCommit,✓,✓,✓,✓,
+AWS CodeDeploy,✓,✓,✓,✓,DISA Review
+AWS Config,✓,✓,✓,✓,✓
+AWS Control Tower,JAB Review,,,,
+AWS Database Migration Service (DMS),✓,✓,✓,✓,✓
+AWS Data Pipeline,,,,,✓
+AWS DataSync,✓,✓,✓,✓,
+AWS Direct Connect,✓,✓,✓,✓,✓
+AWS Directory Service,✓,✓,✓,✓,
+AWS Elastic Beanstalk,✓,✓,✓,✓,
+AWS Elemental MediaConvert,✓,✓,✓,✓,
+AWS Fargate,✓,✓,✓,✓,
+AWS Glue,✓,✓,✓,✓,
+AWS Identity and Access Management (IAM),✓,✓,✓,✓,✓
+AWS IoT Core,✓,✓,✓,✓,
+AWS IoT Device Management,✓,✓,✓,✓,
+AWS IoT Greengrass,✓,✓,✓,✓,
+AWS Key Management Service (KMS),✓,✓,✓,✓,✓
+AWS Lambda,✓,✓,✓,✓,✓
+AWS License Manager,✓,✓,✓,✓,
+AWS Outposts,JAB Review,JAB Review,JAB Review,JAB Review,
+AWS Managed Services,✓,,,,
+AWS Organizations,✓,✓,✓,✓,
+AWS Personal Health Dashboard,,,,,✓
+AWS PrivateLink [feature of VPC],✓,✓,✓,✓,✓
+AWS Secrets Manager,✓,✓,✓,✓,
+AWS Security Hub,JAB Review,,,,
+AWS Server Migration Service (SMS),✓,✓,✓,✓,
+AWS Serverless Application Repository,✓,✓,✓,✓,
+AWS Service Catalog,✓,✓,✓,✓,
+AWS Shield (Standard and Advanced),✓,,,,
+AWS Snowball,✓,✓,✓,✓,✓
+AWS Snowball Edge,✓,✓,✓,✓,✓
+AWS Snowmobile,JAB Review,JAB Review,JAB Review,JAB Review,
+AWS Step Functions,✓,✓,✓,✓,✓
+AWS Storage Gateway,,JAB Review,JAB Review,JAB Review,
+AWS Systems Manager [feature of EC2],✓,✓,✓,✓,✓
+AWS Transit Gateway [feature of VPC],✓,✓,✓,✓,✓
+AWS Trusted Advisor,✓,✓,✓,✓,✓
+AWS Web Application Firewall (WAF),✓,✓,✓,✓,
+Elastic Load Balancing [feature of EC2],✓,✓,✓,✓,✓
+VM Import/Export [feature of EC2],✓,✓,✓,✓,DISA Review
